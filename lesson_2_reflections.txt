@@ -14,3 +14,12 @@ to your files. It provides the value of having granular control over which files
 to commit. As discussed earlier, it's ideal to have a commit for every logical
 change, allowing to also include a commit message. By having an staging area, it
 allows us to have this when we edit multiple files between commits.
+
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+You can use the staging area as well as commands such as git diff and git diff
+--staged to compare the staging area with the most recent commit. You can use
+these commands to compare the differences in files to ensure that you only have
+logical change per commit.
