@@ -1,0 +1,58 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced? 
+
+A bug occurred because of a type or other mistake you would've made while
+coding. Thus, finding where the text has changed allows you to find the bug.
+
+
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+Having access to the entire history allows you to go back to a previous working
+version if you need to. Another good reason is the one we just demonstrated by
+finding bugs.
+
+
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having automatically saved, like Google Docs
+does?
+
+One major pro is that you could choose when to commit so that you know all
+versions are working versions of your program. A con is that you might have a 
+bug and realize that you have to go back to a version after a lot of progress
+has already been made. 
+
+
+
+Why do you think some version control systems, like Git, allow saving multiple 
+files in one commit, while others, like Google Docs, treat each flie separately?
+
+In programming, it is necessary to create changes in multiple files because
+these multiple files communicate with each other and rely on each other for a
+program to function correctly.
+
+
+
+How can you use the commands git log and git diff to view the history of files?
+
+You can use git log to see all commits ever, the author, when the change occured
+and a message describing the change or other notes the author wanted to include.
+You can use git diff to compare two different versions or commits, similar to
+the way we compared two files manually earlier.
+
+
+
+How might using version control make you more confident to make changes that
+could break something?
+
+You can be confident because you'll have the safety net of knowing that you can
+always go back to a working version of your file.
+
+
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I want to use Git for creating my own side projects with the safety of version
+control and being able to look back and see how it developed.
