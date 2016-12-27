@@ -41,3 +41,12 @@ The diagrams help you visualize the branch structure by seeing the big picture
 of where and which commit you decide to branch of from and starting messing
 around with a new feature, for example. You can have many branches off the
 master, so having the diagram allows you to keep track of all of them. 
+
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+The result of merging two branches together is one single branch that contains
+the changes made in each. We represent it in the diagram the way it is because
+we want to include changes made in each branch, not transferring the state of
+one branch to the other.
