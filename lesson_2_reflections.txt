@@ -50,3 +50,13 @@ The result of merging two branches together is one single branch that contains
 the changes made in each. We represent it in the diagram the way it is because
 we want to include changes made in each branch, not transferring the state of
 one branch to the other.
+
+
+What are the pros and cons of Git's automatic merging vs. always doing merges
+manually?
+
+Pros of automatic merging is that you can merge keep your experimental branches
+up to date with the official code you have. However, Git can't resolve every
+conflict or know whether two bodies of code in the same area should contain both
+bodies or one or the other. Doing manual merges allow you to resolve the
+conflict and know for sure.
