@@ -32,3 +32,12 @@ stored locally?
 Having a copy of the last known state of the remote stored locally allows to see
 whether the remote has been updated. This is useful information when dealing
 with new commits locally and remotely that need to be merge to include both.
+
+
+How would you collaborate without using Git or GitHub? What would be easier and
+what would be harder?
+
+You could use other file sharing systems we discussed earlier in the class such
+as Google Drive or Dropbox. It would be a lot harder to keep a working version a
+master branch maintains. One thing that would be easier is real-time
+collaboration of working on the same file, at the same time. 
