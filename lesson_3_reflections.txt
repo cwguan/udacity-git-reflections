@@ -41,3 +41,12 @@ You could use other file sharing systems we discussed earlier in the class such
 as Google Drive or Dropbox. It would be a lot harder to keep a working version a
 master branch maintains. One thing that would be easier is real-time
 collaboration of working on the same file, at the same time. 
+
+
+When would you want to make changes in a separate branch rather than directly in
+master? What benefits does each approach have?
+
+You would want to make changes in a separate branch if you were working with
+others and wanted/needed their approval before merging the branch with master.
+Working in master allows ease of pushing and pulling, making that step much more
+simpler.
