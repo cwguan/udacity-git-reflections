@@ -24,3 +24,11 @@ without altering the original, perhaps working, version. You would want to use
 fork when you want to make your own changes to somebody else's repository
 without affecting their's. You would clone whenever you need a copy. Finally,
 you would want to use branch when fixing bugs or implementing new features.
+
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+Having a copy of the last known state of the remote stored locally allows to see
+whether the remote has been updated. This is useful information when dealing
+with new commits locally and remotely that need to be merge to include both.
