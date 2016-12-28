@@ -13,3 +13,14 @@ You would want to pull changes manually because your remote and local
 repositories might be alternate between being the most up-to-date. If your
 local repository is most up-to-date, then you wouldn't want to pull
 automatically. Instead, you would want to push it.
+
+
+Describe the differences between forks, clones, and branches. When would you use
+one instead of another?
+
+A fork is cloning another person's repository on GitHub. Clone is just copying
+an entire repository. Branching is when you want to implement something new
+without altering the original, perhaps working, version. You would want to use
+fork when you want to make your own changes to somebody else's repository
+without affecting their's. You would clone whenever you need a copy. Finally,
+you would want to use branch when fixing bugs or implementing new features.
